@@ -34,7 +34,7 @@ Vary Light Gray: hsl(0, 0%, 98%)
 
 ## Icons
 
-For the social icons, you can use the icons provided or a font icon library. Some suggestions for font icon libraries can be found below:
+For the social icons, used the icons provided or a font icon library.
 
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
