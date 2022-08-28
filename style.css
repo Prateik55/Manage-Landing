@@ -368,7 +368,7 @@ counter-increment:count;
   margin-top: var(--size-700);
   margin-bottom: var(--size-700);
   width: calc(100vw - 100px);
-  overflow: hidden;
+  /* overflow: hidden; */
   
 }
 .swiper-wrapper {
